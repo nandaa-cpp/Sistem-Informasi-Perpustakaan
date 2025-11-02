@@ -1,0 +1,8 @@
+=== DATA ANGGOTA ===
+A1,nanda,200980001,20090802,1
+
+=== DATA BUKU ===
+B1,petualangan alice di negri ajaib,lewis carroll,25
+
+=== DATA PEMINJAMAN ===
+P1,A-2025-001,602-1267-00-1,1,0
